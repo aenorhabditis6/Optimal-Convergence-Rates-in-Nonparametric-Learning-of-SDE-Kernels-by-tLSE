@@ -1,4 +1,6 @@
 # Optimal Convergence Rates in Nonparametric Learning of SDE Kernels via Tamed Least Squares Estimation
+Update: The full version of this research project is presented at Southern Regional Council on Statistics 2025
+
 
 ## 1. Introduction
 
