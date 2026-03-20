@@ -117,8 +117,7 @@ We will assess the performance of our methods using multiple criteria:
 The primary metric will be the L² error between estimated and true kernels:
 
 $$\|\hat{\phi} - \phi^*\|^2_{L^2_\rho} = \int |\hat{\phi}(r) - \phi^*(r)|^2 \rho(r)\, dr$$
-
-where ρ is the exploration measure (distribution of pairwise distances).
+where $\rho$ is the exploration measure (distribution of pairwise distances).
 
 We will analyze:
 - Log-log plots of error vs. sample size M to verify the slope matches -2β/(2β+1)
